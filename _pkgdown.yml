@@ -1,0 +1,15 @@
+url: https://pharmaverse.github.io/cicdworkshop.rinpharma2022
+
+template:
+  bootstrap: 5
+  bootswatch: flatly
+
+news:
+  cran_dates: true
+navbar:
+  structure:
+    left: [presentation, reference, articles, news]
+  components:
+    presentation:
+      text: Presentation
+      href: presentation/index.html

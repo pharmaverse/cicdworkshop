@@ -1,0 +1,12 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^\.github$
+README.*
+LICENSE.*
+^\.lintr$
+^presentation$
+^cicdworkshop\.Rcheck$
+^cicdworkshop.*\.tar\.gz$
+^cicdworkshop.*\.tgz$
