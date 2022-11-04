@@ -7,7 +7,7 @@ test_that("hello cicdworkshop greets the attendees", {
 
 test_that("linter_ex is surprised", {
   expect_message(
-    hello(),
+    linter_ex("lint"),
     "^Whoa!\\n"
   )
 })
