@@ -6,13 +6,12 @@
 \alias{cicdworkshop-package}
 \title{cicdworkshop: Demo Package for R/Pharma CI/CD Workshop}
 \description{
-This package is intended to demo CI/CD pipelines on GitHub.
+Intended to demo CI/CD pipelines on GitHub.
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://pharmaverse.github.io/cicdworkshop.rinpharma2022}
-  \item \url{https://github.com/pharmaverse/cicdworkshop.rinpharma2022}
 }
 
 }
