@@ -8,7 +8,7 @@
 #' @examples
 #' hello()
 hello <- function() {
-  message("Welcome to the R/Pharma CI/CD workshop!" )
+  message("Welcome to the R/Pharma CI/CD workshop!")
 }
 
 #' Linting for Cyclomatic Complexity
@@ -22,10 +22,10 @@ hello <- function() {
 #' linter_ex("lint")
 linter_ex <- function(x) {
   if (x == "lint") {
-    if (x == "lint") {
-      if (x == "lint") {
-        message("Whoa!")
-      }
-    }
+    # if (x == "lint") {
+    # if (x == "lint") {
+    message("Whoa!")
+    # }
+    # }
   }
 }
